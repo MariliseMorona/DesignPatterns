@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<playground version='6.0' target-platform='ios' buildActiveScheme='true' importAppTypes='true'>
+    <pages>
+        <page name='Comportamental_templateForUIVIew'/>
+        <page name='Comportamentl_template'/>
+        <page name='Comportamental_observer'/>
+        <page name='Estrutural_adapter'/>
+        <page name='Estrutural_facade'/>
+        <page name='Criacional_singleton'/>
+        <page name='Criacional_factory'/>
+    </pages>
+</playground>
