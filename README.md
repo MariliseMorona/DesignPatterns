@@ -15,18 +15,19 @@ Welcome to my examples for design patters applyed in Swift.. 📚
 This is all, and hands-on. 🏁
 
 1. Comportamental <br>
-a)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_observer.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Observer"> Observer</a><br>
-b)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_templateForUIVIew.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Template for UIView">Template for UIView</a><br> 
-c)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_template.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Template"> Template</a><br> 
+a)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_observer.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Observer"> Observer</a><br>
+b)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_templateForUIVIew.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Template for UIView">Template for UIView</a><br> 
+c)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_template.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Template"> Template</a><br> 
 
 2.Criacional <br>
-a)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Criacional_factory.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Factory"> Factory</a><br> 
-b)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Criacional_singleton.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Singleton"> Singleton</a><br> 
+a)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Criacional_factory.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Factory"> Factory</a><br> 
+b)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Criacional_singleton.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Singleton"> Singleton</a><br> 
 
 3. Estrutural <br>
-a)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Estrutural_adapter.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Adapter"> Adapter</a><br> 
-b)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Estrutural_facade.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Facade"> Facade</a><br>
+a)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Estrutural_adapter.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Adapter"> Adapter</a><br> 
+b)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Estrutural_facade.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Facade"> Facade</a><br>
 
 note: this repository will be frequently updated !
 
 🌟
+DesignPatterns.playground/Pages/Comportamental_observer.xcplaygroundpage/Contents.swift
