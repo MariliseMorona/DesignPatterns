@@ -17,7 +17,7 @@ This is all, and hands-on. 🏁
 1. Comportamental <br>
 a)<a href="https://github.com/MariliseMorona/DesignPatterns/blob/main/DesignPatterns.playground/Pages/Comportamental_observer.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Observer"> Observer</a><br>
 b)<a href="https://github.com/MariliseMorona/DesignPatterns/blob/main/DesignPatterns.playground/Pages/Comportamental_templateForUIVIew.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Template for UIView">Template for UIView</a><br> 
-c)<a href="https://github.com/MariliseMorona/DesignPatterns.playground/Pages/Comportamental_template.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Template"> Template</a><br> 
+c)<a href="https://github.com/MariliseMorona/DesignPatterns/blob/main/DesignPatterns.playground/Pages/Comportamental_template.xcplaygroundpage" target="blank" alt="Link de acesso aos conteúdos sobre Template"> Template</a><br> 
 
 2.Criacional <br>
 a)<a href="https://github.com/MariliseMorona/DesignPatterns/blob/main/DesignPatterns.playground/Pages/Criacional_factory.xcplaygroundpage/Contents.swift" target="blank" alt="Link de acesso aos conteúdos sobre Factory"> Factory</a><br> 
